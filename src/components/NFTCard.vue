@@ -18,7 +18,7 @@ import ViewIcon from "./icons/icon-view.vue";
       <span class="date"><ClockIcon />3 days left</span>
     </div>
     <div class="author">
-      <img src="src/assets/images/image-avatar.png" alt="author" />
+      <img src="/src/assets/images/image-avatar.png" alt="author" />
       Creation of&nbsp;<span class="author-name">Jules Wyvern</span>
     </div>
   </div>
