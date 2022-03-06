@@ -32,7 +32,7 @@ import ViewIcon from "./icons/icon-view.vue";
   width: 90%;
 }
 .card .img-wrapper {
-  background-image: url("src/assets/images/image-equilibrium.jpg");
+  background-image: url("/src/assets/images/image-equilibrium.jpg");
   height: 300px;
   background-size: cover;
   border-radius: 0.75rem;
